@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravager8&label=Profile%20views&color=0e75b6&style=flat" alt="ravager8" /> </p>
 
-- 🌱 I’m currently learning **Node.js,AWS,Java.**
+- 🌱 I’m currently learning **Node.js, AWS, Java, Python.**
 
 - 📫 How to reach me **sugamsharmadilip@gmail.com**
 
