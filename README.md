@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravager8&show_icons=true&locale=en" alt="ravager8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravager8&" alt="ravager8" /></p>
+
+<p>[![Sugam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravager8&theme=dracula)](https://github.com/ravager8/github-readme-activity-graph)</p>
