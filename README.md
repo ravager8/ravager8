@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravager8&" alt="ravager8" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ravager8&theme=merko" alt="ravager8" />(https://github.com/ravager8/github-readme-activity-graph)</p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ravager8&theme=merko" alt="ravager8" /></p>
