@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sugamsharmadilip@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZoMCMhRnAZEpcT5rcAFfmXPOCaL33JIh/view?usp=sharing](https://drive.google.com/file/d/1ZoMCMhRnAZEpcT5rcAFfmXPOCaL33JIh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZoMCMhRnAZEpcT5rcAFfmXPOCaL33JIh/view?usp=sharing](https://drive.google.com/file/d/1octrlFRdOUPFsjU_CHXklVbuN5iBcbIq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
