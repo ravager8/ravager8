@@ -1,39 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sugam Sharma</h1>
-<h3 align="center">A Backend Software Engineer prioritizing scalable systems and distributed architecture.</h3>
+# Hi 👋, I'm Sugam Sharma
 
-<img align="center" alt="coding" width="800" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0h1a22&height=220&section=header&text=Sugam%20Sharma&fontSize=70&animation=fadeIn&fontColor=ccd6f6" width="100%" alt="Sugam Sharma" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravager8&label=Profile%20views&color=0e75b6&style=flat" alt="ravager8" /> </p>
+### **Backend Software Engineer | Distributed Systems & Event-Driven Architectures**
+I am a Backend Software Engineer with nearly 2 years of experience architecting and scaling high-throughput, enterprise-grade data platforms. I specialize in building resilient microservices, designing event-driven architectures, and executing zero-downtime database migrations.
 
-- 🌱 I’m currently improving **Advanced System Design, Distributed Systems, and DSA.**
+---
 
-- 📫 How to reach me: **sugamsharmadilip@gmail.com**
+### 🚀 **Quick Overview**
+* 🏢 **Current Role:** Software Engineer at **Ultimate Kronos Group (UKG)**
+* 🌱 **Currently Deep Diving:** Advanced System Design, Distributed Systems, and complex Data Structures & Algorithms
+* 🎯 **Focus Areas:** Scalability, fault tolerance, data consistency, and performance tuning
+* 📫 **Reach Me:** [sugamsharmadilip@gmail.com](mailto:sugamsharmadilip@gmail.com)
+* 📄 **My Background:** [View My Professional Resume](https://drive.google.com/file/d/1e54imsioxisVntFS4uqLTSbHB6JJRZyT/view?usp=sharing)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/14aIH9jUbI2UUAjwlnipMS8ze6HlWmkf1/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ **Tech Stack & Tooling**
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, C++, SQL |
+| **Backend Frameworks** | Spring Boot, Spring Framework, Spring Data JPA, Hibernate, REST APIs, Microservices |
+| **Distributed Systems & Messaging** | Apache Kafka |
+| **Databases & Storage** | Google Bigtable, Cassandra, PostgreSQL |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Kubernetes, GitHub Actions, CI/CD, LaunchDarkly |
+| **Testing & Observability** | JUnit, Mockito, Postman, Kibana, DBeaver |
+
+---
+
+### 🏆 **Achievements & Competitive Programming**
+* **Hackathons:** Placed **Top 15** in the company-wide *UKG x Tesla AI Hackathon* (Designed an AI agent layer for compliance workflows).
+* **CodeChef:** 1651 Rating \| Top 8% (Global Rank 356 in Starters 83 Div 3).
+* **LeetCode:** 1864 Rating \| Top 5%.
+* **Codeforces:** 1205 Rating \| Top 15%.
+* **GeeksforGeeks:** Top 100 Profile.
+
+---
+
+### 📊 **GitHub Analytics & Activity**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravager8&theme=dracula&hide_border=true" alt="Sugam's GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravager8&theme=dracula&hide_border=true" alt="Sugam's Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🤝 **Connect with Me**
 <p align="left">
-<a href="https://linkedin.com/in/sugam-sharma-12a502209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugam-sharma-12a502209" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravager5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravager5" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/ravager16321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravager16321" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ravager_820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ravager_820" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sugam-sharma-12a502209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/ravager5" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/ravager_820" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravager8&show_icons=true&locale=en&layout=compact" alt="ravager8" /></p>
-************************************************************************************************************************************************
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravager8&show_icons=true&locale=en" alt="ravager8" /></p>
-************************************************************************************************************************************************
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravager8&" alt="ravager8" /></p>
-************************************************************************************************************************************************
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ravager8&theme=merko" alt="ravager8" /></p>
